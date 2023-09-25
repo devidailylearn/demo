@@ -21,7 +21,7 @@ public static void main(String arg[])
 			}
 			else
 			{
-			System.out.println("b is greater");
+			System.out.println("  c is greater");
 			}
 			
 		}

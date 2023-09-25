@@ -3,7 +3,7 @@ import java.util.Scanner;
 class demo
 {
 public static void main(String a[])
-		{
+			{
 		Scanner sc = new Scanner(System.in);
 		System.out.println("enter the Number 1");
        	int n1=sc.nextInt();		
@@ -18,7 +18,6 @@ public static void main(String a[])
 		{
 			System.out.println("b is greater than a");
 		}
-		
 		    
 		sc.close();
 		}
